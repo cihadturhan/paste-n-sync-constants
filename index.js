@@ -4,4 +4,5 @@ module.exports = {
   MESSAGE:      'MESSAGE',
   DEVICE_LIST:  'DEVICE_LIST',  
   MESSAGE_LIST: 'MESSAGE_LIST',
+  ERROR: 'ERROR'
 }
