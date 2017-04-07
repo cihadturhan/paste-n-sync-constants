@@ -18,5 +18,11 @@ module.exports = {
     AccessDeniedException: 'AccessDeniedException',
     NotNodeException: 'NotNodeException',
     NotExistingItem: 'NotExistingItem'
+  },
+  TYPES: {
+    TEXT: 'TEXT',
+    URL: 'URL',
+    IMAGE: 'IMAGE',
+    VOICE: 'VOICE'
   }
 }
