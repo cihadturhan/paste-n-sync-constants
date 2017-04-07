@@ -6,11 +6,12 @@ module.exports = {
   MESSAGE_LIST: 'MESSAGE_LIST',
   ERROR: 'ERROR',
   DB: {
-    ValidationException: 'Invalid Query',
-    InvalidArnException: 'Unknown Error',
-    ResourceNotFoundException: 'Request Resource Not Found',
-    InvalidNextTokenException: 'Invalid Next Token',
-    AccessDeniedException: 'Access Denied',
-    NotNodeException: 'Not Node'
+    ValidationException: 'ValidationException',
+    InvalidArnException: 'InvalidArnException',
+    ResourceNotFoundException: 'ResourceNotFoundException',
+    InvalidNextTokenException: 'InvalidNextTokenException',
+    AccessDeniedException: 'AccessDeniedException',
+    NotNodeException: 'NotNodeException',
+    NotExistingItem: 'NotExistingItem'
   }
 }
