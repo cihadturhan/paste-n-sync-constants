@@ -10,6 +10,7 @@ module.exports = {
   DEVICE_LIST:      'DEVICE_LIST',  
   MESSAGE_LIST:     'MESSAGE_LIST',
   ERROR:            'ERROR',
+  LOGOUT:           'LOGOUT',
   DB: {
     ValidationException: 'ValidationException',
     InvalidArnException: 'InvalidArnException',
